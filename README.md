@@ -9,7 +9,7 @@ This project covers how to show attractive duration picker in the flutter applic
 
 ## Packages Used
 
-	[duration_picker](https://pub.dev/packages/duration_picker)
+[duration_picker](https://pub.dev/packages/duration_picker)
 	
 ##
 
