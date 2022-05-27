@@ -7,7 +7,7 @@ A Flutter example for Duration Picker.
 This project covers how to show attractive duration picker in the flutter application.
 
 
-##Packages Used
+## Packages Used
 
 	[duration_picker](https://pub.dev/packages/duration_picker)
 	
